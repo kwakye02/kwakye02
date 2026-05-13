@@ -1,26 +1,26 @@
 # George Kwakye
 
-MSc Data Science & Environmental Intelligence student focused on energy market analytics, renewable forecasting, grid imbalance risk and data-driven energy transition solutions.
+MSc Data Science & Environmental Intelligence student focused on energy analytics, renewable forecasting, electricity markets and data-driven energy transition solutions.
 
 ## About Me
 
-I use Python, machine learning and analytical modelling to explore practical problems across energy systems, electricity markets, renewable generation and environmental data.
+I am an MSc Data Science & Environmental Intelligence student using Python, machine learning and analytical modelling to solve practical problems across energy systems, electricity markets, renewable generation and environmental data.
 
-My background connects petroleum engineering, data science and the energy transition. I am especially interested in projects where operational data, market prices and forecasting can support better decisions in low-carbon energy systems.
+My background connects petroleum engineering with data science, giving me a strong domain foundation for analysing both traditional energy systems and the low-carbon transition. I am especially interested in projects where operational data, market prices, forecasting and environmental intelligence can support better decisions in modern energy systems.
 
 ## Technical Skills
 
 - Python: pandas, NumPy, matplotlib, scikit-learn
 - Data analysis: cleaning, exploratory analysis, feature engineering and visualisation
 - Machine learning: regression, classification, model evaluation and forecasting foundations
-- Energy analytics: renewable generation, petroleum data, forecast error and imbalance risk
+- Energy analytics: renewable generation, electricity markets, petroleum data and forecast error analysis
 - Tools: Git, GitHub, Jupyter Notebook, VS Code
 
 ## Energy Data Interests
 
 - UK electricity market analytics
 - Renewable generation forecasting
-- Grid imbalance and settlement risk
+- Electricity market risk and settlement analytics
 - Energy transition and hydrogen systems
 - Environmental intelligence and sensor data
 - Petroleum analytics as a bridge into wider energy data science
