@@ -12,7 +12,7 @@ My background connects petroleum engineering with data science, giving me a stro
 
 - Python: pandas, NumPy, matplotlib, scikit-learn
 - Data analysis: cleaning, exploratory analysis, feature engineering and visualisation
-- Machine learning: regression, classification, model evaluation and forecasting foundations
+- Machine learning: regression, classification, model evaluation, time-series analysis and forecasting foundations
 - Energy analytics: renewable generation, electricity markets, petroleum data and forecast error analysis
 - Tools: Git, GitHub, Jupyter Notebook, VS Code
 
