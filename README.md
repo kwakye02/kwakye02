@@ -25,26 +25,6 @@ My background connects petroleum engineering with data science, giving me a stro
 - Environmental intelligence and sensor data
 - Petroleum analytics as a bridge into wider energy data science
 
-## Featured Projects
-
-### UK Renewable Portfolio Settlement & Imbalance Risk Analytics
-
-Applied energy data science project analysing how renewable forecast errors can create financial exposure under UK electricity market conditions.
-
-Skills: Python, energy market analytics, forecast error analysis, settlement risk modelling, data visualisation.
-
-### Machine Learning for Enhanced Oil Recovery
-
-Regression modelling project exploring how artificial neural networks can support enhanced oil recovery analysis.
-
-Skills: machine learning, regression, petroleum analytics, model evaluation.
-
-### Petroleum Machine Learning Exercises
-
-Collection of machine learning exercises using petroleum engineering datasets.
-
-Skills: Python, pandas, machine learning foundations, domain data analysis.
-
 ## Current Focus
 
 I am currently building a portfolio around energy market analytics, renewable forecasting and applied data science for the energy transition.
