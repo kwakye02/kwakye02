@@ -16,15 +16,6 @@ My background connects petroleum engineering with data science, giving me a stro
 ![Renewable Energy](https://img.shields.io/badge/Renewable%20Energy-16A34A?style=for-the-badge&logo=leaflet&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## Energy Data Interests
-
-- UK electricity market analytics
-- Renewable generation forecasting
-- Electricity market risk and settlement analytics
-- Energy transition and hydrogen systems
-- Environmental intelligence and sensor data
-- Petroleum analytics as a bridge into wider energy data science
-
 ## Contact
 
 - GitHub: [kwakye02](https://github.com/kwakye02)
