@@ -1,7 +1,3 @@
-# George Kwakye
-
-MSc Data Science & Environmental Intelligence student focused on energy analytics, renewable forecasting, electricity markets and data-driven energy transition solutions.
-
 ## About Me
 
 I am an MSc Data Science & Environmental Intelligence student using Python, machine learning and analytical modelling to solve practical problems across energy systems, electricity markets, renewable generation and environmental data.
