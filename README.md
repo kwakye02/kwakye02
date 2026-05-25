@@ -25,10 +25,6 @@ My background connects petroleum engineering with data science, giving me a stro
 - Environmental intelligence and sensor data
 - Petroleum analytics as a bridge into wider energy data science
 
-## Current Focus
-
-I am currently building a portfolio around energy market analytics, renewable forecasting and applied data science for the energy transition.
-
 ## Contact
 
 - GitHub: [kwakye02](https://github.com/kwakye02)
