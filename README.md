@@ -22,4 +22,4 @@ Right now I'm building projects in Python around energy analytics, GIS and machi
 ## Contact
 
 - GitHub: [kwakye02](https://github.com/kwakye02)
-- Email: kwakyegeorge0@gmail.com
+- Email: kwakyegeorge10@gmail.com
