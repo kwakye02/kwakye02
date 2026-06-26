@@ -1,8 +1,11 @@
 ## About Me
 
-I am an MSc Data Science & Environmental Intelligence student using Python, machine learning and analytical modelling to solve practical problems across energy systems, electricity markets, renewable generation and environmental data.
+I'm currently studying Data Science & Environmental Intelligence at the University of Plymouth after completing a degree in Petroleum Engineering.
 
-My background connects petroleum engineering with data science, giving me a strong domain foundation for analysing both traditional energy systems and the low-carbon transition. I am especially interested in projects where operational data, market prices, forecasting and environmental intelligence can support better decisions in modern energy systems.
+I'm interested in using data to solve energy problems. Most of my projects focus on energy systems, electricity, geospatial analysis and machine learning because I enjoy combining my engineering background with data science rather than leaving one behind.
+
+Right now I'm building projects in Python around energy analytics, GIS and machine learning.
+
 
 ## Technical Skills
 
