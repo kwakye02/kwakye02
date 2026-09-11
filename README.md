@@ -8,7 +8,7 @@
 
 Python · Machine Learning · GIS · Energy Demand Analytics
 
-[Email](mailto:kwakyegeorge10@gmail.com) · [GitHub](https://github.com/kwakye02)
+[Email](mailto:kwakyegeorge10@gmail.com) · [LinkedIn](https://www.linkedin.com/in/gkwakye/) · [GitHub](https://github.com/kwakye02)
 
 </div>
 
@@ -62,5 +62,6 @@ These projects are being prepared as reproducible public case studies. The geoth
 ## Contact
 
 - **Email:** [kwakyegeorge10@gmail.com](mailto:kwakyegeorge10@gmail.com)
+- **LinkedIn:** [linkedin.com/in/gkwakye](https://www.linkedin.com/in/gkwakye/)
 - **GitHub:** [github.com/kwakye02](https://github.com/kwakye02)
 - **Location:** Plymouth, United Kingdom
