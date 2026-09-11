@@ -14,7 +14,7 @@ Python · Machine Learning · GIS · Energy Demand Analytics
 
 ## Profile
 
-I combine energy-domain knowledge with data science to investigate how energy is produced, distributed and used. My work applies Python, statistical modelling, machine learning and geospatial analysis to electricity systems, geothermal resources and energy demand.
+I combine energy domain knowledge with data science to investigate how energy is produced, distributed and used. My work applies Python, statistical modelling, machine learning and geospatial analysis to electricity systems, geothermal resources and energy demand.
 
 I am currently completing an MSc in Data Science & Environmental Intelligence at the University of Plymouth, building on an academic background in Petroleum Engineering. I am interested in graduate and junior opportunities in energy data analytics, energy systems, electricity markets and geospatial analytics.
 
