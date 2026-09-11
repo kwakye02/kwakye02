@@ -1,25 +1,66 @@
-## About Me
+<div align="center">
 
-I'm currently studying Data Science & Environmental Intelligence at the University of Plymouth after completing a degree in Petroleum Engineering.
+# George Kwakye
 
-I'm interested in using data to solve energy problems. Most of my projects focus on energy systems, electricity, geospatial analysis and machine learning because I enjoy combining my engineering background with data science rather than leaving one behind.
+### Energy Data Analyst
 
-Right now I'm building projects in Python around energy analytics, GIS and machine learning.
+**MSc Data Science & Environmental Intelligence | Petroleum Engineering background**
 
+Python · Machine Learning · GIS · Energy Demand Analytics
 
-## Technical Skills
+[Email](mailto:kwakyegeorge10@gmail.com) · [GitHub](https://github.com/kwakye02)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4B5563?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Renewable Energy](https://img.shields.io/badge/Renewable%20Energy-16A34A?style=for-the-badge&logo=leaflet&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+</div>
+
+## Profile
+
+I combine energy-domain knowledge with data science to investigate how energy is produced, distributed and used. My work applies Python, statistical modelling, machine learning and geospatial analysis to electricity systems, geothermal resources and energy demand.
+
+I am currently completing an MSc in Data Science & Environmental Intelligence at the University of Plymouth, building on an academic background in Petroleum Engineering. I am interested in graduate and junior opportunities in energy data analytics, energy systems, electricity markets and geospatial analytics.
+
+## Featured analysis
+
+### [Closed-loop geothermal potential and residential energy demand in Plymouth](https://github.com/kwakye02/msc-geothermal-plymouth)
+
+[![Map of local geothermal supply and residential energy demand balance across Plymouth](https://raw.githubusercontent.com/kwakye02/msc-geothermal-plymouth/main/03_Outputs/Maps/Figure_4_7.png)](https://github.com/kwakye02/msc-geothermal-plymouth)
+
+An end-to-end geospatial assessment of how closed-loop ground-source heat pump potential could contribute to residential energy demand across Plymouth.
+
+**Selected results**
+
+- Modelled **164 LSOAs** using local geology, residential demand and candidate borehole locations.
+- Estimated **398.5 GWh/year** of representative geothermal potential, with **356.0 GWh/year** locally matched to demand.
+- Found representative city-wide coverage of **44.8%** of the modelled residential demand.
+- A **10,000-run Monte Carlo analysis** produced a median coverage of **44.3%** and a central 90% interval of **42.5–45.9%**.
+- PRCC analysis identified boiler efficiency and slate thermal conductivity as the strongest model sensitivities.
+
+**Methods:** GeoPandas · QGIS · spatial joins · G.POT modelling · Monte Carlo simulation · PRCC sensitivity analysis
+
+## Current portfolio development
+
+- **GB electricity demand and imbalance forecasting** — probabilistic forecasting of demand, system imbalance and market signals using NESO and Elexon data.
+- **UK renewable imbalance-risk analytics** — analysis of renewable generation, weather, settlement and portfolio imbalance exposure.
+- **Energy-system case studies** — applied forecasting, modelling and energy-transition analytics.
+
+These projects are being prepared as reproducible public case studies. The geothermal assessment above is the first full project available for review.
+
+## Earlier domain projects
+
+- [Python for Oil and Gas](https://github.com/kwakye02/Python-for-oil-and-gas) — decline-curve analysis, production forecasting and a one-dimensional reservoir-simulation exercise.
+- [ANN Enhanced Oil Recovery](https://github.com/kwakye02/ANN-Enhanced-Oil-Recovery) — neural-network regression applied to enhanced-oil-recovery data.
+
+## Technical toolkit
+
+| Area | Tools and methods |
+|---|---|
+| Data analysis | Python, pandas, NumPy, SciPy, exploratory analysis and visualisation |
+| Machine learning | scikit-learn, regression, classification, model evaluation and uncertainty analysis |
+| Geospatial analysis | GeoPandas, QGIS, Shapely, Rasterio, spatial joins and thematic mapping |
+| Energy analytics | Energy-demand modelling, electricity forecasting, geothermal assessment and sensitivity analysis |
+| Reproducible workflow | Jupyter, Conda environments, Git and documented analytical pipelines |
 
 ## Contact
 
-- GitHub: [kwakye02](https://github.com/kwakye02)
-- Email: kwakyegeorge10@gmail.com
+- **Email:** [kwakyegeorge10@gmail.com](mailto:kwakyegeorge10@gmail.com)
+- **GitHub:** [github.com/kwakye02](https://github.com/kwakye02)
+- **Location:** Plymouth, United Kingdom
