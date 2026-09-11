@@ -20,7 +20,7 @@ I am currently completing an MSc in Data Science & Environmental Intelligence at
 
 ## Featured analysis
 
-### [Closed-loop geothermal potential and residential energy demand in Plymouth](https://github.com/kwakye02/msc-geothermal-plymouth)
+### [Closed loop geothermal potential and residential energy demand in Plymouth](https://github.com/kwakye02/msc-geothermal-plymouth)
 
 [![Map of local geothermal supply and residential energy demand balance across Plymouth](https://raw.githubusercontent.com/kwakye02/msc-geothermal-plymouth/main/03_Outputs/Maps/Figure_4_7.png)](https://github.com/kwakye02/msc-geothermal-plymouth)
 
