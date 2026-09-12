@@ -24,14 +24,14 @@ I am currently completing an MSc in Data Science & Environmental Intelligence at
 
 [![Map of local geothermal supply and residential energy demand balance across Plymouth](https://raw.githubusercontent.com/kwakye02/msc-geothermal-plymouth/main/03_Outputs/Maps/Figure_4_7.png)](https://github.com/kwakye02/msc-geothermal-plymouth)
 
-An end-to-end geospatial assessment of how closed-loop ground-source heat pump potential could contribute to residential energy demand across Plymouth.
+An end-to-end geospatial assessment of how closed loop ground source heat pump potential could contribute to residential energy demand across Plymouth.
 
 **Selected results**
 
 - Modelled **164 LSOAs** using local geology, residential demand and candidate borehole locations.
 - Estimated **398.5 GWh/year** of representative geothermal potential, with **356.0 GWh/year** locally matched to demand.
-- Found representative city-wide coverage of **44.8%** of the modelled residential demand.
-- A **10,000-run Monte Carlo analysis** produced a median coverage of **44.3%** and a central 90% interval of **42.5–45.9%**.
+- Found representative city coverage of **44.8%** of the modelled residential demand.
+- A **10,000 run Monte Carlo analysis** produced a median coverage of **44.3%** and a central 90% interval of **42.5–45.9%**.
 - PRCC analysis identified boiler efficiency and slate thermal conductivity as the strongest model sensitivities.
 
 **Methods:** GeoPandas · QGIS · spatial joins · G.POT modelling · Monte Carlo simulation · PRCC sensitivity analysis
@@ -39,24 +39,24 @@ An end-to-end geospatial assessment of how closed-loop ground-source heat pump p
 ## Current portfolio development
 
 - **GB electricity demand and imbalance forecasting** — probabilistic forecasting of demand, system imbalance and market signals using NESO and Elexon data.
-- **UK renewable imbalance-risk analytics** — analysis of renewable generation, weather, settlement and portfolio imbalance exposure.
-- **Energy-system case studies** — applied forecasting, modelling and energy-transition analytics.
+- **UK renewable imbalance risk analytics** — analysis of renewable generation, weather, settlement and portfolio imbalance exposure.
+- **Energy system case studies** — applied forecasting, modelling and energy-transition analytics.
 
 These projects are being prepared as reproducible public case studies. The geothermal assessment above is the first full project available for review.
 
 ## Earlier domain projects
 
-- [Python for Oil and Gas](https://github.com/kwakye02/Python-for-oil-and-gas) — decline-curve analysis, production forecasting and a one-dimensional reservoir-simulation exercise.
-- [ANN Enhanced Oil Recovery](https://github.com/kwakye02/ANN-Enhanced-Oil-Recovery) — neural-network regression applied to enhanced-oil-recovery data.
+- [Python for Oil and Gas](https://github.com/kwakye02/Python-for-oil-and-gas) — decline curve analysis, production forecasting and a one dimensional reservoir simulation exercise.
+- [ANN Enhanced Oil Recovery](https://github.com/kwakye02/ANN-Enhanced-Oil-Recovery) — neural network regression applied to enhanced oil recovery data.
 
 ## Technical toolkit
 
 | Area | Tools and methods |
 |---|---|
 | Data analysis | Python, pandas, NumPy, SciPy, exploratory analysis and visualisation |
-| Machine learning | scikit-learn, regression, classification, model evaluation and uncertainty analysis |
+| Machine learning | scikit learn, regression, classification, model evaluation and uncertainty analysis |
 | Geospatial analysis | GeoPandas, QGIS, Shapely, Rasterio, spatial joins and thematic mapping |
-| Energy analytics | Energy-demand modelling, electricity forecasting, geothermal assessment and sensitivity analysis |
+| Energy analytics | Energy demand modelling, electricity forecasting, geothermal assessment and sensitivity analysis |
 | Reproducible workflow | Jupyter, Conda environments, Git and documented analytical pipelines |
 
 ## Contact
