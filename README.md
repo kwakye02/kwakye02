@@ -24,7 +24,7 @@ I am currently completing an MSc in Data Science & Environmental Intelligence at
 
 [![Map of local geothermal supply and residential energy demand balance across Plymouth](https://raw.githubusercontent.com/kwakye02/msc-geothermal-plymouth/main/03_Outputs/Maps/Figure_4_7.png)](https://github.com/kwakye02/msc-geothermal-plymouth)
 
-An end-to-end geospatial assessment of how closed loop ground source heat pump potential could contribute to residential energy demand across Plymouth.
+An end to end geospatial assessment of how closed loop ground source heat pump potential could contribute to residential energy demand across Plymouth.
 
 **Selected results**
 
